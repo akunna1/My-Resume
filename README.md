@@ -1,2 +1,2 @@
-Resume - for softcopy
-Resume with QR code - for hardcopy
+- Resume: for softcopy
+- Resume with QR code: for hardcopy

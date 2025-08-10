@@ -28,7 +28,7 @@ Portfolio • GitHub • LinkedIn
 
 ## 🧠 Summary
 
-Geospatial Developer with 4+ years of experience in GIS, full-stack web development, and data analytics. I bring a strong focus on problem-solving, technical excellence, and collaborative teamwork.
+Geospatial Developer with 5+ years of experience in GIS, full-stack web development, and data analytics. I bring a strong focus on problem-solving, technical excellence, and collaborative teamwork.
 
 ---
 

@@ -1,4 +1,4 @@
-# Akunna's Resumé
+# Akunna's Résumé
 
 Welcome to the official repository for my professional resume materials. This repo includes both softcopy and hardcopy-friendly versions of my resume, showcasing my experience in geospatial development, full-stack engineering, and data analytics.
 

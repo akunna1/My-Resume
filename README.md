@@ -2,6 +2,8 @@
 
 Welcome to the official repository for my professional resume materials. This repo includes both softcopy and hardcopy-friendly versions of my resume, showcasing my experience in geospatial development, full-stack engineering, and data analytics.
 
+- Blue font (#3197c4)
+
 ---
 
 ## 📁 Files

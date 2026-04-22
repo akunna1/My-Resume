@@ -40,7 +40,7 @@ Geospatial Developer with 6+ years of experience in GIS, full-stack web developm
 - **Frameworks**: React, Next.js, Node.js, React Native, Express  
 - **GIS Tools**: ArcGIS Pro, QGIS, Leaflet.js, Mapbox, OpenLayers.js  
 - **Cloud & DB**: Firebase, Oracle, PostgreSQL, MongoDB, Google Cloud  
-- **Other Tools**: Power BI, Microsoft Teams, SharePoint, Git
+- **Other Tools**: MS Power Platform (Power BI, Power Automate, Power Apps), Microsoft Teams, SharePoint, Git
 
 ---
 

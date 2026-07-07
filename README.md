@@ -47,11 +47,12 @@ Geospatial Developer with 8 years of experience in GIS, full-stack web developme
 ## 🛠️ Project Highlights
 
 - **FaithTech Admin Panel** – Built a real-time tracking platform for global Bible distribution.  
-- **Durham Compass** – Designed an open-source demographic mapping app for housing justice.  
+- **Durham Neigborhood Compass** – Designed an open-source demographic mapping app for housing justice.  
 - **Akunna Writes** – Created a multilingual blog to promote Igbo literacy and storytelling.
 - **Wake Zoning Explorer** – Interactive map of Wake Forest, NC zoning classes with definitions.  
 - **Transit Equity in Wake County** – Analyzed public transit gaps using GTFS and U.S. Census data.
 - **LTS (Level of Traffic Stress)** – Mapped and scored road segments in Chapel Hill based on stress levels for cyclists, using ArcGIS Pro and R for transportation planning and accessibility analysis.
+- **Durham Fire Compass** - Built a GIS-based public safety analytics platform that transforms Computer-Aided Dispatch (CAD) incident data into interactive dashboards for analyzing emergency response, demand patterns, and operational performance.
 
 ---
 
